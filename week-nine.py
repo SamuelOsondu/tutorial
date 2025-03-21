@@ -87,8 +87,8 @@ print(add(3, 4))  # Output: 7
 #
 # 📌 Setting Up Git
 
-# git config --global user.name "Your Name"
-# git config --global user.email "your_email@example.com"
+# git config --global user.name "Samuel Osondu"
+# git config --global user.email "samuelosondu.py@gmail.com"
 
 # git init
 
