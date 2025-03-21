@@ -103,14 +103,7 @@ print(add(3, 4))  # Output: 7
 
 # git branch new-feature
 # git checkout new-feature  # Switch to the new branch
-;iuergh3qrh q;irh;
 
-e;h ajo'rqje'ioj
-
-;hrehuhe;h;
-
-era;ohfo;classmethod
-ea;hon/j
 # git checkout main
 # git merge new-feature
 
@@ -141,4 +134,3 @@ ea;hon/j
 # ✔️ Using virtual environments for dependency management.
 # ✔️ Version control with Git: tracking changes, commits, branches.
 # ✔️ Collaborating using GitHub (push, pull, merge, pull requests).
-IERVHGIQUH HIEF;IQUGRQRGI;UGP G;3I Q3;IU
